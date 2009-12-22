@@ -7,6 +7,8 @@ HOST="192.168.2.1"
 #HOST="localhost"
 PORT=6666
 
+# blah
+
 class Knuebbel:
 	def __init__(self):
 		print "Initializing..."
